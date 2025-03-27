@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+chapters/cnn_classification/venv/
+chapters/cnn_classification/.ipynb_checkpoints/
+# Ignore archive files
+chapters/cnn_classification/archive.zip
+chapters/cnn_classification/archive/

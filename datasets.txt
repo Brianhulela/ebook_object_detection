@@ -1,0 +1,6 @@
+1. Bone Fracture Detection: Computer Vision Project: https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project
+2. Vehicle Detection Image Dataset: https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-image-dataset
+3. Plant disease recognition dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset?resource=download
+4. COVID-19 Medical Face Mask Detection Dataset: https://www.kaggle.com/datasets/mloey1/medical-face-mask-detection-dataset
+5. coco2017 subset: https://www.kaggle.com/datasets/abdelrahmanelgharibx/coco2017-subset
+6. Cats and Dogs: https://www.kaggle.com/datasets/lazywulf/cats-and-dogs
