@@ -4,3 +4,4 @@
 4. COVID-19 Medical Face Mask Detection Dataset: https://www.kaggle.com/datasets/mloey1/medical-face-mask-detection-dataset
 5. coco2017 subset: https://www.kaggle.com/datasets/abdelrahmanelgharibx/coco2017-subset
 6. Cats and Dogs: https://www.kaggle.com/datasets/lazywulf/cats-and-dogs
+7. Kidney Stone Images with Bounding Box Annotations: https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images
