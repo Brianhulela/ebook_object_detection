@@ -1,3 +1,6 @@
-jupyter
-tabulate
-opencv-python
+tabulate 
+tensorflow 
+numpy 
+opencv-python 
+matplotlib 
+pandas
