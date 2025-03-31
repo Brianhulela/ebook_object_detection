@@ -8,3 +8,8 @@ chapters/kidney_stones/venv/
 chapters/kidney_stones/.ipynb_checkpoints/
 chapters/kidney_stones/data/
 chapters/kidney_stones/archive.zip
+chapters/CNN_bounding_box_detect/archive.zip
+chapters/CNN_bounding_box_detect/data/
+.venv/
+runs/
+chapters/crop_weeds/
