@@ -12,4 +12,7 @@ chapters/CNN_bounding_box_detect/archive.zip
 chapters/CNN_bounding_box_detect/data/
 .venv/
 runs/
-chapters/crop_weeds/
+chapters/crop_weeds/data/
+chapters/crop_weeds/venv/
+chapters/crop_weeds/.ipynb_checkpoints/
+chapters/crop_weeds/archive.zip
