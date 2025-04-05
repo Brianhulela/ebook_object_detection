@@ -4,4 +4,4 @@ from ultralytics import YOLO
 model = YOLO("yolo11n.pt")
 
 # Train the model with your custom dataset, specifying the correct path to your `data.yaml` file
-results = model.train(data="data/data.yaml", epochs=100, imgsz=640)
+results = model.train(data="data/data.yaml", epochs=10, imgsz=416)
