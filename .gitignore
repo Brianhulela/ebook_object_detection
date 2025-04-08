@@ -16,3 +16,4 @@ chapters/crop_weeds/data/
 chapters/crop_weeds/venv/
 chapters/crop_weeds/.ipynb_checkpoints/
 chapters/crop_weeds/archive.zip
+chapters/data_augmentation/venv
